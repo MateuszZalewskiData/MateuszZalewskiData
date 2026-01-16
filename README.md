@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Mateusz Zalewski
 
-<!--
-**MateuszZalewskiData/MateuszZalewskiData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Data Engineer** focused on building reliable ETL pipelines and scalable infrastructure. I prioritize clean code, automation, and containerization over manual data processing.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Core:** Python, SQL (Window Functions, CTEs)
+* **Infrastructure:** Docker, Linux/Bash
+* **Orchestration:** Apache Airflow (Learning basics)
+* **Databases:** PostgreSQL
+* **Tools:** Git, GitHub Actions (CI/CD basics)
+
+---
+
+## 🚀 Featured Project: Steam User Analytics ETL
+
+*Refactoring legacy code to modern Data Engineering standards.*
+
+Building an automated pipeline to extract and analyze gamer behavior patterns.
+
+* **Architecture:** Python Scripts → PostgreSQL Warehouse (Dockerized)
+* **Goal:** Efficient data ingestion from Steam API avoiding rate limits.
+* **Current focus:** Implementing asynchronous data fetching and schema design.
+
+---
+
+## 📫 Connect with me
+
+* **Email:** [zalewski.mateusz@protonmail.com]
+* **GitHub:** [github.com/MateuszZalewskiData](https://github.com/MateuszZalewskiData)
